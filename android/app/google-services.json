@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "140235667742",
+        "project_id": "agami-hicogo",
+        "storage_bucket": "agami-hicogo.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:140235667742:android:b4b420e7216bd7dbc0b10f",
+                "android_client_info": {
+                    "package_name": "com.agamilabs.hicogo"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "140235667742-adg90i8pbtqjmsugtn12qtf90f9cu7ne.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyATiPUEnqAQ7hsSaTSMAR2DyEQP1_XpZKE"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "140235667742-adg90i8pbtqjmsugtn12qtf90f9cu7ne.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
